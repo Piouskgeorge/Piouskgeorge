@@ -1,41 +1,55 @@
-# Hi there, I'm Pious K George 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey, I'm Pious K George 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Cyber+Security+Enthusiast;Full-Stack+Developer;AI%2FML+Explorer;Networking+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=6366F1&width=435&lines=Cyber+Security+Enthusiast;Full-Stack+Developer;AI%2FML+Explorer;Networking+Specialist;MCP%2FHCP+Researcher" alt="Typing SVG" />
 </div>
 
-## 🛠️ Technical Skills
-
-### 🔐 Cybersecurity
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-111111?style=flat-square)
-![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square&logo=gnu&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp_Suite-000000?style=flat-square)
-![SQLMap](https://img.shields.io/badge/-SQLMap-000000?style=flat-square)
-
-### 💻 Development
-![MERN Stack](https://img.shields.io/badge/-MERN-000000?style=flat-square&logo=mongodb&logoColor=47A248)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-### 🛠️ DevOps & Others
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-
-## 📚 Education
-- **Bachelor of Technology** in Computer Science and Business Systems  
-  *[Sri Eshwar College Of Engineering]*  
-
-
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pious-george)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piouskgeorge)
-
-
+## 🚀 About Me
 <div align="center">
   
-![Visitor Count](https://profile-counter.glitch.me/Piouskgeorge/count.svg)
+```diff
++ Self-taught Cyber Security & Networking Professional |
++ Passionate about AI/ML and High Performance Computing |
++ B.Tech CSBS @ Sri Eshwar College of Engineering |
++ Building solutions at the intersection of security and innovation
+
+🛠️ Technical Arsenal
+<img src="https://media.giphy.com/media/XyV8eJb8ZvC3u/giphy.gif" width="30"> Cybersecurity
+<div align="center">
+https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=1e1e2e
+https://img.shields.io/badge/-Metasploit-111111?style=for-the-badge&logo=metasploit&labelColor=1e1e2e
+https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logo=gnu&logoColor=white&labelColor=1e1e2e
+https://img.shields.io/badge/-Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white&labelColor=1e1e2e
+https://img.shields.io/badge/-SQLMap-000000?style=for-the-badge&logo=sqlmap&logoColor=white&labelColor=1e1e2e
+https://img.shields.io/badge/-Hydra-000000?style=for-the-badge&logo=hydra&logoColor=white&labelColor=1e1e2e
 
 </div>
+
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30"> Development
+<div align="center">
+https://img.shields.io/badge/-MERN-000000?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=1e1e2e
+https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1e1e2e
+https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1e1e2e
+https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1e1e2e
+https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=1e1e2e
+
+</div>
+<img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="30"> DevOps & More
+<div align="center">
+https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1e1e2e
+https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1e1e2e
+https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white&labelColor=1e1e2e
+https://img.shields.io/badge/-NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=1e1e2e
+https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white&labelColor=1e1e2e
+
+</div>
+📚 Education & Research
+graph LR
+    A[B.Tech CSBS] --> B[Cyber Security]
+    A --> C[Networking]
+    A --> D[AI/ML]
+    A --> E[MCP/HCP]
+    B --> F[Penetration Testing]
+    C --> G[Network Protocols]
+    D --> H[Neural Networks]
+    E --> I[High Performance Computing]
