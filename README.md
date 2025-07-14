@@ -1,37 +1,41 @@
-<!-- Animated Header -->
-<h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Pious+K.+George;Cyber+Security+Specialist;MERN+Stack+Developer;AI%2FML+Researcher" alt="Typing animation" />
-  </a>
-</h1>
+# Hi there, I'm Pious K George 👋
 
-<!-- Animated divider -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d81d2044afda5a1fe3aabac7/marquee.svg" alt="divider" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Cyber+Security+Enthusiast;Full-Stack+Developer;AI%2FML+Explorer;Networking+Researcher" alt="Typing SVG" />
 </div>
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PiousGeorge&label=Profile%20views&color=0e75b6&style=flat" alt="PiousGeorge" /> 
-</p>
+## 🛠️ Technical Skills
 
-<!-- Social badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/piousgeorge/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:pious@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://tryhackme.com/p/PiousGeorge">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-  </a>
-</p>
+### 🔐 Cybersecurity
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-111111?style=flat-square)
+![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square&logo=gnu&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-000000?style=flat-square)
+![SQLMap](https://img.shields.io/badge/-SQLMap-000000?style=flat-square)
 
-<!-- About Me Section -->
-## 🔎 About Me
-```diff
-+ B.Tech in Computer Science and Business Systems
-+ Cyber Security & Penetration Testing Specialist
-+ MERN Stack Developer
-+ AI/ML & High Performance Computing Researcher
+### 💻 Development
+![MERN Stack](https://img.shields.io/badge/-MERN-000000?style=flat-square&logo=mongodb&logoColor=47A248)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+### 🛠️ DevOps & Others
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+
+## 📚 Education
+- **Bachelor of Technology** in Computer Science and Business Systems  
+  *[Sri Eshwar College Of Engineering]*  
+
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pious-george)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piouskgeorge)
+
+
+<div align="center">
+  
+![Visitor Count](https://profile-counter.glitch.me/Piouskgeorge/count.svg)
+
+</div>
